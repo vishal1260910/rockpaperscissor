@@ -62,8 +62,8 @@ confirm( "Computer Score = " + " " + computerscore);
 confirm("Your Score" + " " + humanscore);
 }
 
-for(let i =0; i<5; i++){
-playRound();
-}
+// for(let i =0; i<5; i++){
+// playRound();
+// }
 
 alert("Your final score:  " + humanscore +" " + "\nComputer final score: "+ computerscore)
